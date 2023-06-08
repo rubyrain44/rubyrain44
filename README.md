@@ -1,4 +1,4 @@
-# 👋 Hello world! My name is Lorraine and I'm an aspiring software engineer!
+# 👋 Hello world! My name is Lorraine and I'm an aspiring software developer!
 - 🐱‍👤 I am a coding ninja thanks to the online bootcamp that I graduated from- Coding Dojo!
 - 📃 I received a certificate upon graduating for my full stack focuses in: Web Fundamentals | Python | JavaScript | Java
 - 💖 My passion within coding leans more towards front end work. I love finding cool and impactful ways to excite the user when presented with whatever project they've stumbled onto.
