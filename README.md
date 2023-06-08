@@ -7,6 +7,10 @@
 - 🎲 My life's dream job would be to one day open my own board game cafe, with it's own companion app that I've built to use alongside it, where people can go to relax, have fun, and make memories.
 - 💻 For now, you will find me working on creating new applications of different ideas I get that I would love to see built and used by people everyday to impact their lives in either a productive way or just to use for fun!
 
+
+![image](https://github.com/rubyrain44/rubyrain44/assets/107738367/82e828dc-178a-4155-80fa-4ef4504b2580)![image](https://github.com/rubyrain44/rubyrain44/assets/107738367/b1c330ee-25e1-405d-85a6-b00a0f899bc0)
+
+
 <!---
 rubyrain44/rubyrain44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
