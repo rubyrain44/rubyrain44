@@ -1,5 +1,5 @@
-# 👋 Hello world! My name is Lorraine and I'm an aspiring software developer!
-- 🐱‍👤 I am a coding ninja thanks to the online bootcamp that I graduated from- Coding Dojo!
+# 👋 Hello world! My name is Lorraine and I am a full stack software developer ready to code!
+- 🐱‍👤 I am a coding ninja thanks to the online bootcamp that I graduated from- Coding Dojo! I am passionate, driven, and excited to get into the field and start creating something amazing!
 - 📃 I received a certificate upon graduating for my full stack focuses in: Web Fundamentals | Python | JavaScript | Java
 - 💖 My passion is to be apart of developing something and helpful for users that they can use in their everyday lives.
 - 💭 My dream job within the field would be to work on a music application or something for event/community building. Music is one of my greatest loves and I would love to be apart of creating something fun with       that. I also very much enjoy getting out and about and exploring the world we live in and getting to see and meet new places and people. I think building an app to help bring others together or showcase             exciting things in the area to explore would be incredibly fun and helpful.
